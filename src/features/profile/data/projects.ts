@@ -58,7 +58,6 @@ export const PROJECTS: Project[] = [
 
 **Demo:** [Expo Build](https://expo.dev/accounts/abdulrehman.code1/projects/spot-light/builds/12bb6587-06d8-4e2d-ac69-def0ca923306)`,
     logo: "https://api.dicebear.com/7.x/shapes/svg?seed=Spotlight+React+Native",
-    isExpanded: true,
   },
 
   {

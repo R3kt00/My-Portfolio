@@ -11,6 +11,7 @@ export const USER: User = {
   timeZone: "Asia/Karachi",
   flipSentences: [
     "Fullstack Web Developer",
+    "AI Agent Engineer",
     "Mobile App Developer",
     "3D Web Developer",
     "Desktop Application Developer",
