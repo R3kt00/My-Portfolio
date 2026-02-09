@@ -19,6 +19,8 @@ function getWebSiteJsonLd(): WithContext<WebSite> {
   };
 }
 
+// Trigger commit
+
 // Thanks @shadcn-ui, @tailwindcss
 const darkModeScript = String.raw`
   try {
