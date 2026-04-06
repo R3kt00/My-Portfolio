@@ -1,38 +1,37 @@
 import type { User } from "@/features/profile/types/user";
 
 export const USER: User = {
-  firstName: "Abdul Rehman",
-  lastName: "Waseem",
-  displayName: "Abdul Rehman",
-  username: "abdulrehmanwaseem",
+  firstName: "Leo",
+  lastName: "Salo",
+  displayName: "Leo Salo",
+  username: "R3kt",
   gender: "male",
   pronouns: "he/him",
-  bio: "Creating with code. Small details matter.",
-  timeZone: "Asia/Karachi",
+  bio: "Creating with code, Small details matter.",
+  timeZone: "Europe/Helsinki",
   flipSentences: [
     "Fullstack Web Developer",
-    "AI Agent Engineer",
-    "Mobile App Developer",
-    "3D Web Developer",
-    "Desktop Application Developer",
+    "Java Devloper",
+    "Configurator",
+    "Discord bot Developer",
   ],
-  address: "Karachi City, Pakistan",
-  phoneNumber: "KzkyMzExODExNDgwNQ==", // E.164 format, base64 encoded (https://t.io.vn/
-  secondPhoneNumber: "Kzk3MSA1NSA1NjMgMzI4OQ==",
+  address: "Tampere City, Finland",
+  phoneNumber: "+358452158310", // E.164 format, base64 encoded (https://t.io.vn/
+  secondPhoneNumber: "+358452158310",
   // base64-string-converter)
-  email: "Y29udGFjdEBhYmR1bHJlaG1hbndhc2VlbS5tZQ==", // base64 encoded
-  website: "https://abdulrehmanwaseem.me",
-  jobTitle: "Fullstack Developer",
+  email: "Q29udGFjdEByM2t0LnRlY2g=", // base64 encoded
+  website: "https://r3kt.tech",
+  jobTitle: "Junior Developer",
   jobs: [
     {
-      title: "Senior Fullstack Developer & 3D Web Specialist At",
-      company: "Forrof.io",
-      website: "https://forrof.io?ref=IN-926722",
+      title: "Founder & Head of Operations",
+      company: "soon!",
+      website: "soon!",
     },
     {
-      title: "Founder",
-      company: "ShopFlow",
-      website: "/products/shopflow",
+      title: "Soon!",
+      company: "Soon!",
+      website: "Soon!",
     },
   ],
   about: `
