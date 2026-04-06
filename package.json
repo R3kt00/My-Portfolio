@@ -117,5 +117,12 @@
     "node": "22.x",
     "pnpm": ">=9"
   },
-  "packageManager": "pnpm@10.25.0"
+  "packageManager": "pnpm@10.25.0",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "@vercel/speed-insights",
+      "shiki"
+    ]
+  }
 }
